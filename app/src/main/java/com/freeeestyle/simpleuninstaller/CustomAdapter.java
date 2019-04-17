@@ -1,7 +1,3 @@
-/**
- * @date 2014/03/17
- * @author Shinji
- */
 package com.freeeestyle.simpleuninstaller;
 
 import java.util.List;
@@ -13,8 +9,6 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
-
 
 /**
  * クラスの内容

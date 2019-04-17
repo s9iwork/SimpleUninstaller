@@ -1,14 +1,7 @@
-/**
- * @date 2014/03/17
- * @author Shinji
- */
 package com.freeeestyle.simpleuninstaller;
 
 import android.graphics.drawable.Drawable;
 
-/**
- * クラスの内容
- */
 public class CustomData {
 	private Drawable imageData;
 
