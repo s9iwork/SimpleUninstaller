@@ -1,4 +1,4 @@
-package com.freeeestyle.simpleuninstaller;
+package work.shinjiezumi.simpleuninstaller;
 
 import android.content.Intent;
 import android.content.pm.ApplicationInfo;
@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity{
         editText.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
-//
+                //
             }
 
             @Override
