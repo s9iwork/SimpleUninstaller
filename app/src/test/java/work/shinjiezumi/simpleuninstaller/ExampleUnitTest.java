@@ -1,4 +1,4 @@
-package com.freeeestyle.simpleuninstaller;
+package work.shinjiezumi.simpleuninstaller;
 
 import org.junit.Test;
 

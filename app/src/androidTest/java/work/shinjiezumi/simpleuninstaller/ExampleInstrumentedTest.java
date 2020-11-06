@@ -1,4 +1,4 @@
-package com.freeeestyle.simpleuninstaller;
+package work.shinjiezumi.simpleuninstaller;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

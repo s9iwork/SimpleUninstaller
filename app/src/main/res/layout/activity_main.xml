@@ -3,14 +3,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.freeeestyle.simpleuninstaller.MainActivity">
+    tools:context="work.shinjiezumi.simpleuninstaller.MainActivity">
 
     <ListView
         android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/editText"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:padding="3dp" />
 
@@ -20,6 +20,8 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:ems="10"
-        android:longClickable="false" />
+        android:inputType="text"
+        android:longClickable="false"
+        android:autofillHints="" />
 
 </RelativeLayout>
